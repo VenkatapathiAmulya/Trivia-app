@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="Title">Welcome to Trivia App</string>
+    <string name="Exit">Exit</string>
+    <string name="Start">Start Trivia</string>
+    <string name="quit">Quit</string>
+    <string name="Try">Try Again</string>
+    <string name="next">Next</string>
+    <string name="Load">Loading Image</string>
+    <string name="stats">Trivia stats</string>
+    <string name="answers">Correct Answers</string>
+    <string name="tryagain">Try again and see if you can get all the correct answers!</string>
+
+</resources>
